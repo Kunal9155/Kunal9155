@@ -1,8 +1,6 @@
 ###  Hola, I'm Kunal Arora..!!👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on  brushing up my skills
 - 🌱 I’m currently learning  JavaScript
 - 👯 I’m looking to collaborate on  JavaScript and Frontend projects
