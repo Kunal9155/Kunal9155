@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning  JavaScript
 - 👯 I’m looking to collaborate on  JavaScript and Frontend projects
 - 💬 Ask me about C, JavaScript
-- 📫 How to reach me: <a href="https://www.instagram.com/kunal.9155/" target="_blank">Click here</a>
+- 📫 How to reach me: <a href="">9155kunalarora@gmail.com</a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Google's First Tweet was in binary
 
