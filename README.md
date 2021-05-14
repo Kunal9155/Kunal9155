@@ -26,7 +26,9 @@
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Kunal9155&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal9155&show_icons=true&theme=radical">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal9155&" alt="kunal9155" /></p>
+
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&theme=dracula)](https://git.io/streak-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal9155" alt="kunal9155" /></a> </p>
 
 
