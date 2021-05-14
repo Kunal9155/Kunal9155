@@ -4,7 +4,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Kunal9155&color=blue&logo=flat)
 [![Linkedin](https://img.shields.io/badge/Kunal9155-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kunal-arora-410098211/)](https://www.linkedin.com/in/kunal-arora-410098211/)
 
-[![Instagram](https://img.shields.io/badge/kunalthedev-black?style=flat&logo=Instagram&logoColor=pink&link=https://www.instagram.com/kunal.9155/)](https://www.instagram.com/kunal.9155/)
+[![Instagram](https://img.shields.io/badge/kunalthedev-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/kunal.9155/)
 
 
 - 🔭 I’m currently working on  brushing up my skills
