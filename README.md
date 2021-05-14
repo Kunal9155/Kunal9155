@@ -1,4 +1,4 @@
-###  Hola, I'm Kunal Arora..!!👋
+<h1 align="center">Hola, I'm Kunal Arora..!👋</h1> <hr>
 
 
 - 🔭 I’m currently working on  brushing up my skills
