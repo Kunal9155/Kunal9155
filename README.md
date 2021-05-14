@@ -28,7 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal9155&show_icons=true&theme=radical">
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanchitbajaj02&theme=dracula)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal9155&theme=dracula)](https://git.io/streak-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal9155" alt="kunal9155" /></a> </p>
 
 
