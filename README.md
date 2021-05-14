@@ -29,7 +29,8 @@
 
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal9155&theme=dracula)](https://git.io/streak-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal9155" alt="kunal9155" /></a> </p>
 
+
+  [![Sanchit's Trophy](https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
 
 
