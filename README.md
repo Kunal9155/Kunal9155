@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Kunal Arora..!👋</h1> <hr>
+<h1 align="center">Hola, I'm Kunal Arora..!😄👋</h1> <hr>
 
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://kunal9155.github.io/kunal-portfolio/)
 
@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on  JavaScript and Frontend projects
 - 💬 Ask me about C, JavaScript
 - 📫 How to reach me: <a href="">9155kunalarora@gmail.com</a>
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: Google's First Tweet was in binary
 
 
