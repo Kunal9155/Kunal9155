@@ -32,4 +32,4 @@
 
   [![Kunal's Trophy](https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
 
-https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula
+<img src="https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula"></img>
