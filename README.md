@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Kunal Arora..!👋</h1> <hr>
+<h1 align="center">Hola, I'm Kunal Arora..!👋</h1> 
 
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://kunal9155.github.io/kunal-portfolio/)
 
