@@ -8,7 +8,7 @@
 
 <p align="center">
 <!--   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> -->
-  <img align="center" width="25%" src="https://assets.pinterest.com/ext/embed.html?id=9499849194930042" height="359" alt="header"/>
+  <img align="center" width="25%" src="/assets/exploring.gif" height="359" alt="header"/>
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p>
