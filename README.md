@@ -1,18 +1,12 @@
 <h1 align="center">Hola, I'm Kunal Arora..!👋</h1> 
-<hr>
+
 [![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://kunal9155.github.io/kunal-portfolio/)
 
 [![Linkedin](https://img.shields.io/badge/Kunal9155-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kunal-arora-410098211/)](https://www.linkedin.com/in/kunal-arora-410098211/)
 [![Instagram](https://img.shields.io/badge/Kunal9155-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/kunal.9155/)
-<hr>
 
 
-<p align="center">
-<!--   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> -->
-  <img align="center" width="25%" src="/assets/exploring.gif" alt="header"/>
-  <br>
-  <h5 align="center">console.log('Forever Explorer');</h5>
-</p>
+
 
 - 🔭 I’m currently working on  brushing up my skills
 - 🌱 I’m currently learning  JavaScript
