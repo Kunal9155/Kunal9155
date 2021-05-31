@@ -17,7 +17,6 @@
 - 👯 I’m looking to collaborate on  JavaScript and Frontend projects
 - 💬 Ask me about C, JavaScript
 - 📫 How to reach me: <a href="">9155kunalarora@gmail.com</a>
-- ⚡ Fun fact: Google's First Tweet was in binary
 
 
 
