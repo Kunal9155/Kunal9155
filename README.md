@@ -31,7 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal9155&show_icons=true&theme=radical">
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal9155&theme=dracula)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kunal9155&theme=cobalt&hide_border=true&border=DD2727)](https://git.io/streak-stats)
 
 
   [![Kunal's Trophy](https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
