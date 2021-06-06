@@ -31,15 +31,16 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Kunal9155&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 </div>
 
-<div align="center">
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kunal9155&theme=cobalt&hide_border=true&border=DD2727)](https://git.io/streak-stats)
-</div>
+
  
- <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal9155&show_icons=true&theme=radical">
-</div>
+
  
- <div align="center">
-  [![Kunal`s Trophy](https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
-</div>
+
+  [![kunal's Trophy](https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
+
+
 <img src="https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula"></img>
