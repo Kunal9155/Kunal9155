@@ -35,6 +35,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal9155&show_icons=true&theme=radical">
 
-  [![Kunal's Trophy](https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
+ <a href="https://github.com/Kunal9155">
+  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true"/>
+</a>
+<br/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula"></img>
