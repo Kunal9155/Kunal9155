@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on  brushing up my skills
-- 🌱 I’m currently learning  JavaScript
+- 🌱 I’m currently learning  ReactJs
 - 👯 I’m looking to collaborate on  JavaScript and Frontend projects
 - 💬 Ask me about C, JavaScript
 - 📫 How to reach me: <a href="">9155kunalarora@gmail.com</a>
