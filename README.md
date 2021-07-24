@@ -48,6 +48,6 @@
 
   ### Graph
 
-https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula
+  [![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
 
 </div>
