@@ -47,6 +47,6 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal9155&theme=dracula)](https://git.io/streak-stats)
 
   ### Graph
-
+  [![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
 
 </div>
