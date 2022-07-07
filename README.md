@@ -8,8 +8,10 @@
 [![Instagram](https://img.shields.io/badge/Kunal9155-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/kunal.9155/)
 </div>
 
+
+
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></p>
 <br/>
 
 - 🔭 I’m currently working on  brushing up my skills
